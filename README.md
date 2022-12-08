@@ -1,1 +1,1 @@
-# studio_guid_prototype
+# studio_guide_prototype
